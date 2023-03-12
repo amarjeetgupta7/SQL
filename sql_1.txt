@@ -7,4 +7,5 @@ SHOW DATABASES;
 ---Command to drop a DATABASE
 DROP DATABASE Test;
 
-
+--- Go inside the particular DATABASE
+use BigData;
