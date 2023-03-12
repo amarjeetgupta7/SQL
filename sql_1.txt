@@ -1,0 +1,7 @@
+---Command to create DATABASE
+CREATE DATABASES BigData;
+
+--- to list down all the DATABASE
+
+SHOW DATABASES;
+
