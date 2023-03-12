@@ -9,3 +9,5 @@ DROP DATABASE Test;
 
 --- Go inside the particular DATABASE
 use BigData;
+--- Go inside the particular DATABASE
+use BigData;
