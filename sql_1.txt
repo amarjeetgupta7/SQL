@@ -11,3 +11,11 @@ DROP DATABASE Test;
 use BigData;
 --- Go inside the particular DATABASE
 use BigData;
+
+---command to list down all the TABLE
+
+show tables;
+
+---command to list down all the TABLE
+
+show create TABLE employee;
