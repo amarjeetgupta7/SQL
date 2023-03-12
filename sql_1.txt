@@ -1,7 +1,10 @@
 ---Command to create DATABASE
 CREATE DATABASES BigData;
-
+Cretae databases Test;
 --- to list down all the DATABASE
-
 SHOW DATABASES;
+
+---Command to drop a DATABASE
+DROP DATABASE Test;
+
 
